@@ -10,3 +10,5 @@ configmap:
 image:
   name: devopsjourney1/mywebapp
   tag: latest
+
+replicas: 5
