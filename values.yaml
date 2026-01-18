@@ -11,4 +11,4 @@ image:
   name: devopsjourney1/mywebapp
   tag: latest
 
-replicas: 5
+replicas: 3
